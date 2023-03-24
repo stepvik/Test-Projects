@@ -1,0 +1,6 @@
+database:
+  enable: true
+  username: MY_DB
+kafka:
+  enable: true
+  username: MY_NAME
